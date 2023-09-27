@@ -1,6 +1,6 @@
-package exercicio_atividade01;
+package Exercicio_atividade01;
 
-public class atividade2 {
+public class Atividade2 {
 
 	int valor1 ;
 	int valor2 ;
